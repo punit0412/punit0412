@@ -1,5 +1,5 @@
 ### Hi there 👋
-* I am a final year student at SVNIT persuing **Electrical Engineering**
+* I graduated in **Electrical Engineering** from **SVNIT, Surat**
 * **Python Developer**
 * **Java** Enthusiast
 * **Machine Learning and Deep Learning**
