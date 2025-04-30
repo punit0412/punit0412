@@ -5,5 +5,6 @@
 * **Java** Enthusiast
 * **Machine Learning and Deep Learning**
 * **GenAI** Enthusiast
+* **Newbie Android Developer** using *Kotlin*
   
   
